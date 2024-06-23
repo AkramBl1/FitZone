@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AkramBl1/fitzone.git
+   https://github.com/AkramBl1/FitZone.git
 
 2. **Navigate to the project directory:**
 cd fitzone
